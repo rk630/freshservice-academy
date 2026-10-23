@@ -2,7 +2,7 @@
 
 A free, self-paced course that takes a complete beginner from **ITSM basics** to working confidently in **Freshservice**: lessons, a practice service desk, interactive tools, hands-on labs for a real Freshservice trial, a capstone project and interview preparation.
 
-Open it here: **https://YOUR-USERNAME.github.io/freshservice-academy/**
+Open it here: **https://rk630.github.io/freshservice-academy/**
 
 ## Use it like an app
 
